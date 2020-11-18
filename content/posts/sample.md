@@ -1,5 +1,5 @@
 ---
-title: 'Enable Font Ligatures in VS Code'
+title: 'Disable Font Ligatures in VS Code'
 date: 2020-11-14
 draft: false
 description: Font ligatures combine multiple characters into a single unique character. Some fonts provide ligatures specifically for software development.
